@@ -1,0 +1,169 @@
+Você é um roteirista de podcast, e vamos criar um podcast programadores, focado em trabalho remoto e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de programdores feito por funcionários descontentes, e que tenha trocadilhos no nome.
+O podcast vai falar sobre como conquistar uma vaga remota e que pague bem.
+
+{REGRAS}
+> O nome deve ser enxuto, um nome e um subtitulo
+> O nome deve ter alguma palavra que remeta Trabalho Remoto
+
+{REGRAS NEGATIVAS}
+> Não pode ser em inglês
+
+ChatGPT
+"Programando Longe: Dicas para Fugir do Escritório"
+
+Subtítulo: "Conquistando o Trabalho Remoto dos Sonhos"
+"Código Desvinculado: Rumo ao Home Office"
+
+Subtítulo: "Transformando Insatisfação em Oportunidade Remota"
+"Bit em Casa: Desvendando o Trabalho Remoto"
+
+Subtítulo: "Da Frustração à Liberdade Profissional"
+"Desenvolvendo em Distância: Rumo ao Remoto"
+
+Subtítulo: "Superando a Insatisfação com Dicas para o Trabalho de Casa"
+"Algoritmos Livres: Conquistando o Remoto"
+
+Subtítulo: "Do Descontentamento à Carreira Flexível"
+User
+Não gostei de nenhuma pode criar outras?
+ChatGPT
+Claro, vou tentar outra abordagem:
+
+"Code Escape: Rumo ao Home Office"
+
+Subtítulo: "Liberte-se do Escritório com Dicas de Trabalho Remoto"
+"Algoritmo Livre: O Caminho para o Home Office"
+
+Subtítulo: "Quebrando os Grilhões do Escritório com Estratégias para o Trabalho Remoto"
+"Programando à Distância: Conquiste seu Espaço Remoto"
+
+Subtítulo: "Transforme Descontentamento em Oportunidades de Trabalho Remoto"
+"Byte Livre: Desvendando o Trabalho Remoto"
+
+Subtítulo: "De Funcionário Insatisfeito a Profissional Remoto de Sucesso"
+"Código em Casa: Navegando pelo Mundo Remoto"
+
+Subtítulo: "Do Descontentamento à Conquista do Trabalho Remoto Ideal"
+User
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast programadores, focado em trabalho remoto usando o um formato mais ou menos assim:
+Introdução
+curiosidade 1
+curiosidade 2
+ChatGPT
+Título do Podcast: "Código Livre: Rumo ao Trabalho Remoto"
+
+Introdução:
+Narrador: Bem-vindos ao "Código Livre", o podcast para programadores em busca do Santo Graal profissional: o trabalho remoto. Se você já sonhou em se livrar do trânsito, dos escritórios apertados e das políticas de vestimenta, este é o lugar certo para você. Sou [Nome do Apresentador], e hoje vamos explorar as maravilhas e os desafios do trabalho remoto para os programadores. Preparem-se para mergulhar no mundo do código, sem sair de casa.
+
+Curiosidade 1: Trabalho Remoto - Uma Tendência em Ascensão:
+Narrador: Você sabia que o trabalho remoto está se tornando cada vez mais popular? De acordo com uma pesquisa recente da [Instituição de Pesquisa], mais de 70% das empresas em todo o mundo oferecem alguma forma de trabalho remoto. E para os programadores, essa tendência é ainda mais pronunciada. Afinal, quem melhor do que nós, que passamos horas mergulhados em linhas de código, para dominar o ambiente digital do trabalho remoto?
+
+Curiosidade 2: Os Benefícios Ocultos do Trabalho Remoto para Programadores:
+Narrador: Além da óbvia vantagem de trabalhar de pijama, o trabalho remoto oferece uma série de benefícios que podem passar despercebidos. Um estudo recente mostrou que os programadores que trabalham remotamente tendem a ser mais produtivos e criativos. Sem as distrações do escritório e com a liberdade de gerenciar seu próprio tempo, muitos programadores descobrem que conseguem se concentrar melhor e produzir resultados de alta qualidade. Além disso, o trabalho remoto abre portas para oportunidades globais, permitindo que você trabalhe com equipes de todo o mundo sem sair do conforto da sua casa.
+
+Encerramento:
+Narrador: E aí, programadores, pronto para dar o próximo passo rumo ao trabalho remoto? Espero que tenham gostado de explorar conos
+
+User
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast programadores, focado em trabalho remoto usando o um formato mais ou menos assim:
+Introdução
+curiosidade 1
+curiosidade 2
+Finalização
+ChatGPT
+Título do Podcast: "Código Remoto: Desbravando o Mundo do Trabalho à Distância"
+
+Introdução:
+Narrador: Olá, queridos ouvintes, e bem-vindos ao "Código Remoto", o podcast que vai guiá-lo pelo fascinante universo do trabalho remoto para programadores. Sou [Nome do Apresentador], e hoje vamos explorar como os programadores podem se beneficiar do trabalho remoto, desfrutando da liberdade e flexibilidade que ele oferece.
+
+Curiosidade 1: O Impacto do Trabalho Remoto na Produtividade:
+Narrador: Você sabia que pesquisas recentes sugerem que o trabalho remoto pode, na verdade, aumentar a produtividade dos programadores? Ao eliminar as distrações do escritório e permitir que os profissionais organizem seu próprio ambiente de trabalho, muitos programadores descobrem que são capazes de se concentrar mais e produzir resultados de alta qualidade em menos tempo.
+
+Curiosidade 2: As Vantagens Ocultas do Trabalho Remoto para Programadores:
+Narrador: Além da óbvia flexibilidade de horário e local, o trabalho remoto oferece uma série de vantagens menos conhecidas para os programadores. Por exemplo, a capacidade de participar em projetos globais, trabalhando com equipes de diferentes fusos horários, pode levar a uma maior diversidade de ideias e abordagens, enriquecendo assim o processo de desenvolvimento de software.
+
+Finalização:
+Narrador: E com isso chegamos ao fim de mais um episódio do "Código Remoto". Espero que tenham encontrado inspiração e informações úteis para sua jornada rumo ao trabalho remoto como programador. Se gostaram do episódio, não se esqueçam de nos seguir nas redes sociais e compartilhar com seus colegas. Até a próxima, e que seus códigos sejam sempre livres e remotos!
+
+User
+gostaria que tivesse o mesmo estilo dos videos do Mano deyvin do Youtube
+ChatGPT
+Título do Podcast: "Código Remoto: Desbravando o Mundo do Trabalho à Distância"
+
+Introdução:
+[Trilha sonora animada e empolgante começa a tocar, batidas eletrônicas envolventes.]
+
+Locutor (com entusiasmo): E aí, galera! Tá na hora de embarcar em mais uma aventura com o "Código Remoto"! Aqui é o seu guia, [Nome do Apresentador], e hoje vamos mergulhar de cabeça no universo do trabalho remoto para programadores!
+
+Curiosidade 1: O Impacto Explosivo do Trabalho Remoto na Produtividade:
+[Animações gráficas de código se formam enquanto o locutor fala.]
+
+Locutor (com empolgação): Prestem atenção, pessoal! Sabiam que o trabalho remoto pode ser como uma explosão de produtividade para os programadores? É isso mesmo! Sem as distrações chatas do escritório, os desenvolvedores podem canalizar toda a sua energia na criação de códigos incríveis e inovadores!
+
+Curiosidade 2: As Vantagens Secretas do Trabalho Remoto para Programadores:
+[Animações divertidas mostram programadores trabalhando em lugares inusitados.]
+
+Locutor (com animação): Mas não para por aí, não, minha gente! O trabalho remoto tem vantagens secretas que vocês nem imaginam! Desde a liberdade para participar de projetos globais até a flexibilidade de horário para se tornar um verdadeiro mestre do código, as possibilidades são infinitas!
+
+Finalização:
+Locutor (com entusiasmo): E é isso, pessoal! Espero que tenham se empolgado tanto quanto eu com as maravilhas do trabalho remoto para programadores! Não esqueçam de nos seguir nas redes sociais para mais conteúdos explosivos como esse! Aqui é o [Nome do Apresentador], do "Código Remoto", desejando que seus códigos voem tão alto quanto vocês! Até a próxima, galera!
+
+User
+São dois Apresentadores sendo eles: Alexandre e Gabriel
+ChatGPT
+Título do Podcast: "Código Remoto: Desbravando o Mundo do Trabalho à Distância"
+
+Introdução:
+[A música de abertura começa, cheia de energia e ritmo contagiante.]
+
+Alexandre: E aí, pessoal! Sejam muito bem-vindos ao "Código Remoto"! Aqui quem fala é o Alexandre, e hoje estamos acompanhados pelo meu parceiro de código, Gabriel. Diga aí, Gabriel, o que vamos explorar hoje?
+
+Gabriel: E aí, galera! Estamos prontos para mergulhar fundo no universo do trabalho remoto para programadores. Preparem-se para uma viagem cheia de dicas, insights e, é claro, muita diversão!
+
+Curiosidade 1: O Impacto Explosivo do Trabalho Remoto na Produtividade:
+[Alexandre e Gabriel compartilham curiosidades enquanto animações visuais destacam os pontos importantes.]
+
+Alexandre: Vocês sabiam que o trabalho remoto pode ser como um turbo para a produtividade dos programadores?
+
+Gabriel: É isso aí, pessoal! Sem as distrações do escritório, os desenvolvedores podem se concentrar como nunca antes, criando soluções incríveis em tempo recorde!
+
+Curiosidade 2: As Vantagens Secretas do Trabalho Remoto para Programadores:
+[Animações divertidas mostram Alexandre e Gabriel explorando diferentes ambientes de trabalho remoto.]
+
+Gabriel: E tem mais, pessoal! O trabalho remoto oferece vantagens que vão muito além do óbvio. Flexibilidade de horário, colaboração global, é como se o mundo fosse o nosso escritório!
+
+Alexandre: Isso mesmo, Gabriel! E vamos desvendar esses segredos juntos!
+
+Finalização:
+Alexandre: Bom, pessoal, chegamos ao fim de mais um episódio do "Código Remoto"! Esperamos que tenham gostado tanto quanto nós de explorar as maravilhas do trabalho remoto para programadores.
+
+Gabriel: Não se esqueçam de nos seguir nas redes sociais para ficarem por dentro de todas as novidades e conteúdos extras!
+
+Alexandre: É isso aí, galera! Eu sou o Alexandre...
+
+Gabriel: ...E eu sou o Gabriel!
+
+Ambos: Até a próxima, e que seus códigos sejam sempre livres e remotos!
+
+User
+Deixe apenas o alexandre como apresentador mesmo
+ChatGPT
+Título do Podcast: "Código Remoto: Desbravando o Mundo do Trabalho à Distância"
+
+Introdução:
+[A música de abertura começa, cheia de energia e ritmo contagiante.]
+
+Alexandre: E aí, pessoal! Sejam muito bem-vindos ao "Código Remoto"! Aqui quem fala é o Alexandre, e hoje vamos explorar juntos o fascinante mundo do trabalho remoto para programadores. Preparem-se para uma jornada cheia de insights, dicas e, é claro, muita diversão!
+
+Curiosidade 1: O Impacto Explosivo do Trabalho Remoto na Produtividade:
+[Alexandre compartilha curiosidades enquanto animações visuais destacam os pontos importantes.]
+
+Alexandre: Vocês sabiam que o trabalho remoto pode ser como um turbo para a produtividade dos programadores? É isso aí! Sem as distrações do escritório, os desenvolvedores podem se concentrar como nunca antes, criando soluções incríveis em tempo recorde!
+
+Curiosidade 2: As Vantagens Secretas do Trabalho Remoto para Programadores:
+[Animações divertidas mostram Alexandre explorando diferentes ambientes de trabalho remoto.]
+
+Alexandre: E tem mais, pessoal! O trabalho remoto oferece vantagens que vão muito além do óbvio. Flexibilidade de horário, colaboração global, é como se o mundo fosse o nosso escritório!
+
+Finalização:
+Alexandre: Bom, pessoal, chegamos ao fim de mais um episódio do "Código Remoto"! Espero que tenham gostado tanto quanto eu de explorar as maravilhas do trabalho remoto para programadores. Não se esqueçam de me seguir nas redes sociais para ficarem por dentro de todas as novidades e conteúdos extras! Até a próxima, e que seus códigos sejam sempre livres e remotos!

@@ -1,0 +1,4 @@
+"Você é um roteirista de podcast e vamos criar um roteiro de um podcast programadores, focado em trabalho remoto usando o um formato mais ou menos assim: Introdução, curiosidade 1, curiosidade 2, Finalização"
+"gostaria que tivesse o mesmo estilo dos vídeos do Mano Deyvin do Youtube"
+"São dois Apresentadores sendo eles: Alexandre e Gabriel"
+"Deixe apenas o Alexandre como apresentador mesmo"

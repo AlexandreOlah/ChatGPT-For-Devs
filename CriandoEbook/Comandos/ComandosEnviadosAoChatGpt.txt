@@ -1,0 +1,20 @@
+qui estão os comandos que foram passados para mim durante esta interação:
+
+Solicitação para trazer todos os tópicos novamente.
+Pedido para dar exemplo de outras linguagens que usam POO no tópico 4.
+Pedido para trazer novamente todos os tópicos.
+Pedido para fornecer exemplos de códigos mais detalhados.
+Solicitação para falar mais sobre o tópico 2, VCL.
+Pedido para combinar os tópicos 3 e 4.
+Pedido para elaborar mais sobre cada tópico.
+Pedido para criar um título épico e curto para um ebook sobre Delphi, com uma temática esportiva.
+Solicitação para listar 5 variações de título para um ebook sobre Delphi com uma temática de Joel Jota.
+Pedido para criar um título épico e curto para um ebook sobre Delphi, com uma temática esportiva.
+Pedido para elaborar um texto para ebook sobre Delphi, abordando os principais pontos do Delphi com exemplos de código.
+Pedido para listar 5 variações de título para um ebook sobre Delphi com uma temática de programação.
+Pedido para fornecer exemplos de código para cada tópico.
+Pedido para trazer novamente todos os tópicos.
+Pedido para citar no texto do tópico sobre programação orientada a objetos (tópico 4) outras linguagens que também usam POO.
+Pedido para trazer novamente todos os tópicos.
+Pedido para trazer todos os tópicos novamente.
+Pedido para listar todos os comandos passados durante a interação.

@@ -14,3 +14,4 @@ Aqui estão os links das atividades realizadas durante o curso:
 - Criando [Integração ChatGPT com Node e React](https://github.com/AlexandreOlah/ChatGPT-For-Devs/tree/main/CriandoIntegracaoChatGptComNodeEReact/chatgpt-clone)
 
 ## Certificado
+[Alexandre Olah - ChatGPT For Devs](https://drive.google.com/file/d/1sf-qFxCdBkQ7IUhECBMK02QbvESJRDpj/view?usp=drive_link)

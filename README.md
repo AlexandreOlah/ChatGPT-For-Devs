@@ -1,9 +1,9 @@
 # Curso ChatGPT For Devs
 
-##Descrição
+## Descrição
 Este repositório contém informações sobre o curso "ChatGPT For Devs" oferecido pela DIO. O curso aborda o uso e integração do modelo de linguagem GPT (Generative Pre-trained Transformer) em aplicações de desenvolvimento. Durante o curso, aprendi a integrar o modelo GPT em aplicações para gerar texto, responder perguntas e interagir com os usuários de forma natural.
 
-##Atividades
+## Atividades
 Aqui estão os links das atividades realizadas durante o curso:
 - Criando [Ebook](https://github.com/AlexandreOlah/ChatGPT-For-Devs/blob/main/CriandoEbook/EbookDelphi_AlexandreOlah.pdf)
 
@@ -13,4 +13,4 @@ Aqui estão os links das atividades realizadas durante o curso:
 
 - Criando [Integração ChatGPT com Node e React](https://github.com/AlexandreOlah/ChatGPT-For-Devs/tree/main/CriandoIntegracaoChatGptComNodeEReact/chatgpt-clone)
 
-##Certificado
+## Certificado
